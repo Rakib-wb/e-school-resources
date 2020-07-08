@@ -1,0 +1,80 @@
+
+.nav-logo{
+    width: 118.07px;
+    height: 29px;
+}
+.upper-box{
+    background: #f0fff0;
+    width: 1140px;
+    height: 476px;
+    padding: 0 100px 0 100px ;
+}
+.up-bottom{
+    margin-top: 40px;
+}
+p{
+    color: grey;
+}
+img{
+    width: 100%;   
+}
+small{
+    color:tomato;
+}
+.color-sign{
+   background:#21B573;
+   color:#FFFFFF;
+   border-radius: 33px;
+}
+.buy-now-sell{
+    background:#21B573;
+    color:#FFFFFF;
+    border-radius: 33px;
+    border-radius: none;
+    border-style: none;
+    padding: 6px;
+}
+.tp-bt{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.color{
+    color:#21B573;
+}
+.categories img{
+    width: 100%;
+    margin-top: 40px;
+}
+.book1, .book2, .book3, .book4{
+    padding: 10px 40px;
+    text-align: center;
+    box-shadow: 5px 5px 20px whitesmoke;
+}
+.second{
+    box-shadow: 5px 5px 34px wheat;
+}
+.card{
+    border-style: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px wheat;
+}
+.box img{
+    padding: 100px;
+}
+.button{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.footer{
+    background: rgb(2, 2, 41);
+    color: white;
+}
+.lists{
+    float: left;
+    padding: 60px; 
+}
+.center{
+    text-align: center;
+    color: white;
+}
